@@ -5,6 +5,7 @@
   "scripts": {
     "start": "make start",
     "ios": "make run-ios",
+    "and": "make run-android",
     "test": "jest",
     "lint": "eslint .",
     "validate": "npm ls"
